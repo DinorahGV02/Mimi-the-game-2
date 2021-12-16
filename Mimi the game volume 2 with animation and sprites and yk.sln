@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Mimi the game volume 2 with animation and sprites and yk", "Mimi the game volume 2 with animation and sprites and yk.vcxproj", "{246C0DEC-0CB4-4069-9227-E218FAC4F038}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug Dynamic|x64 = Debug Dynamic|x64
+		Debug Dynamic|x86 = Debug Dynamic|x86
+		Debug Static|x64 = Debug Static|x64
+		Debug Static|x86 = Debug Static|x86
+		Release Dynamic|x64 = Release Dynamic|x64
+		Release Dynamic|x86 = Release Dynamic|x86
+		Release Static|x64 = Release Static|x64
+		Release Static|x86 = Release Static|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{246C0DEC-0CB4-4069-9227-E218FAC4F038}.Debug Dynamic|x64.ActiveCfg = Debug Dynamic|x64
+		{246C0DEC-0CB4-4069-9227-E218FAC4F038}.Debug Dynamic|x64.Build.0 = Debug Dynamic|x64
+		{246C0DEC-0CB4-4069-9227-E218FAC4F038}.Debug Dynamic|x86.ActiveCfg = Debug Dynamic|Win32
+		{246C0DEC-0CB4-4069-9227-E218FAC4F038}.Debug Dynamic|x86.Build.0 = Debug Dynamic|Win32
+		{246C0DEC-0CB4-4069-9227-E218FAC4F038}.Debug Static|x64.ActiveCfg = Debug Static|x64
+		{246C0DEC-0CB4-4069-9227-E218FAC4F038}.Debug Static|x64.Build.0 = Debug Static|x64
+		{246C0DEC-0CB4-4069-9227-E218FAC4F038}.Debug Static|x86.ActiveCfg = Debug Static|Win32
+		{246C0DEC-0CB4-4069-9227-E218FAC4F038}.Debug Static|x86.Build.0 = Debug Static|Win32
+		{246C0DEC-0CB4-4069-9227-E218FAC4F038}.Release Dynamic|x64.ActiveCfg = Release Dynamic|x64
+		{246C0DEC-0CB4-4069-9227-E218FAC4F038}.Release Dynamic|x64.Build.0 = Release Dynamic|x64
+		{246C0DEC-0CB4-4069-9227-E218FAC4F038}.Release Dynamic|x86.ActiveCfg = Release Dynamic|Win32
+		{246C0DEC-0CB4-4069-9227-E218FAC4F038}.Release Dynamic|x86.Build.0 = Release Dynamic|Win32
+		{246C0DEC-0CB4-4069-9227-E218FAC4F038}.Release Static|x64.ActiveCfg = Release Static|x64
+		{246C0DEC-0CB4-4069-9227-E218FAC4F038}.Release Static|x64.Build.0 = Release Static|x64
+		{246C0DEC-0CB4-4069-9227-E218FAC4F038}.Release Static|x86.ActiveCfg = Release Static|Win32
+		{246C0DEC-0CB4-4069-9227-E218FAC4F038}.Release Static|x86.Build.0 = Release Static|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {289B56EC-77D2-4BBE-8835-3BD1C49EC6D5}
+	EndGlobalSection
+EndGlobal
